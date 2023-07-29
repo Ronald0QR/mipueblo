@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Teste</string>
+    <string name="opcion1">Sobre</string>
+    <string name="opcion2">Inglês</string>
+    <string name="opcion3">Espanhol</string>
+    <string name="opcion4">Português</string>
+    <string name="boton1">Hotéis</string>
+    <string name="boton2">Restaurantes</string>
+    <string name="boton3">Sites</string>
+    <string name="nombreapp">Talaiguapp</string>
+    <string name="descripcion">Sou o desenvolvedor de software Ronaldo Quevedo. Conhecimento técnico básico: Este desenvolvedor é proficiente em linguagens de programação e tecnologias comuns usadas no desenvolvimento de software simples, como Python, JavaScript, C# ou Java</string>
+    <string name="descripcionhoteles">
+        Em principe carolina, você encontra hotéis e glampings do
+        COP $ 80.000 por noite, quartos confortáveis ​​ que permitem
+        aproveite o descanso e relaxamento da cidade
+    </string>
+
+    <string name="bienvenida">Bem-vindo</string>
+    <string name="inicio">Descubra-nos</string>
+    <string name="bienvenidausuario">Bem-vindo</string>
+</resources>

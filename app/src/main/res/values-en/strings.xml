@@ -4,7 +4,12 @@
     <string name="opcion1">About us</string>
     <string name="opcion2">English</string>
     <string name="opcion3">Spanish</string>
+    <string name="opcion4">Portuguese</string>
     <string name="boton1">Hotels</string>
+    <string name="boton2">Restaurants</string>
+    <string name="boton3">Sites</string>
+    <string name="nombreapp">Talaiguapp</string>
+    <string name="descripcion">Im Ronaldo Quevedo software developer. Basic technical knowledge: This developer is proficient in common programming languages and technologies used in simple software development, such as Python, JavaScript, C#, or Java</string>
     <string name="descripcionhoteles">
         In Carolina del Principe, you will find hotels and glampings starting from
         $80000 COP per night, comfortable rooms that will allow you
